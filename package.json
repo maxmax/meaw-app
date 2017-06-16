@@ -1,0 +1,22 @@
+{
+  "name": "meaw-app",
+  "version": "0.0.1",
+  "private": true,
+  "license": "MIT",
+  "description": "Simple server implementations included",
+  "main": "server.js",
+  "author": "maxkv333",
+  "dependencies": {
+    "body-parser": "1.17.2",
+    "express": "4.15.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxmax/meaw-app"
+  }
+}
